@@ -122,7 +122,7 @@ https://drive.google.com/file/d/17nyiVBvnwwQvXIyJx_xnzcr5uctZjP41/view?usp=drive
 ### Profile / Dashboard
 (https://drive.google.com/file/d/1smgvaLDd-GP0gJ2UitqESIBImnB4SHow/view?usp=drive_link)
 
-### whole Process
+### whole Process in one Video
 https://drive.google.com/file/d/1WoNgJDtKAgr4YWyBybPt1NN546U_wBsB/view?usp=drive_link
 
 
