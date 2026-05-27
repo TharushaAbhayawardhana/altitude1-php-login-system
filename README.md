@@ -114,16 +114,16 @@ http://localhost/altitude1-php-login-system (or your project name)
 ## 📸 Screenshots
 
 ### Register Page
-(Add screenshot here)
+(https://drive.google.com/file/d/1QX7S4Agh8rMGvRUSUgX0K0XCq400zTAf/view?usp=drive_link)
 
 ### Login Page
-(Add screenshot here)
+https://drive.google.com/file/d/17nyiVBvnwwQvXIyJx_xnzcr5uctZjP41/view?usp=drive_link
 
 ### Profile / Dashboard
-(Add screenshot here)
+(https://drive.google.com/file/d/1smgvaLDd-GP0gJ2UitqESIBImnB4SHow/view?usp=drive_link)
 
-### Logout Process
-(Add screenshot here)
+### whole Process
+https://drive.google.com/file/d/1WoNgJDtKAgr4YWyBybPt1NN546U_wBsB/view?usp=drive_link
 
 
 ## 🎥 Tutorial Reference
